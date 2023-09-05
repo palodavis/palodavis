@@ -12,7 +12,7 @@ __________________________________________________________
 ![palodavis GitHub stats](https://github-readme-stats.vercel.app/api?username=palodavis&show_icons=true&theme=dracula)
 
 __________________________________________________________
-### Tecnologias que eu uso no meu dia a dia
+### Tecnologias que eu uso no meu dia a dia:
 
 <div style="display: inline_block"><br/>
 
@@ -28,4 +28,5 @@ __________________________________________________________
 </div>
 <img align="center" alt="OracleSQL" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
 <br>
+
 
