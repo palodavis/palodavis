@@ -1,15 +1,18 @@
-### Olá! Eu sou o Paulo David. 
+### Olá! Eu sou o Paulo David. 😎
 
-<li>🎓  Estudante de Ciência de Computação pelo IFG.</li> 
-<li>🚀 Atuando em TI na Unimed Anápolis.</li>
+_________________________________________________________
+<li>🎓  Estudante de Ciência de Computação pelo IFG</li> 
+<li>🚀 Estagiário de TI na Unimed Anápolis.</li>
 
-<br>
-
+_________________________________________________________
+### Contatos 📱: 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-david-317247180)
 
+__________________________________________________________
 ![palodavis GitHub stats](https://github-readme-stats.vercel.app/api?username=palodavis&show_icons=true&theme=dracula)
 
-### Tecnologias que eu uso no meu dia a dia:
+__________________________________________________________
+### Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_block"><br/>
 
@@ -23,6 +26,7 @@
 
 <img align="center" alt="PostgreeSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
-
+<br>
+<img align="center" alt="OracleSQL" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
 <br>
 
