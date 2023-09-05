@@ -1,4 +1,9 @@
-### Olá! Eu sou o Paulo David. Estudante de Ciência de Computação pelo IFG, atuando como Estagiário de TI na Unimed Anápolis.
+### Olá! Eu sou o Paulo David. 
+
+<li>🎓  Estudante de Ciência de Computação pelo IFG.</li> 
+<li>🚀 Estagiário de TI na Unimed Anápolis.</li>
+
+<br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-david-317247180)
 
