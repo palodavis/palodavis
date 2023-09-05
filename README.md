@@ -26,7 +26,6 @@ __________________________________________________________
 
 <img align="center" alt="PostgreeSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
-<br>
 <img align="center" alt="OracleSQL" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
 <br>
 
