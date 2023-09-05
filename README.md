@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Paulo David. 
 
 <li>🎓  Estudante de Ciência de Computação pelo IFG.</li> 
-<li>🚀 Estagiário de TI na Unimed Anápolis.</li>
+<li>🚀 Atuando em TI na Unimed Anápolis.</li>
 
 <br>
 
