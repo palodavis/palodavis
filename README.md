@@ -2,8 +2,6 @@
 
 _________________________________________________________
 <li>🎓  Estudante de Ciência de Computação pelo IFG</li> 
-<li>🚀 Estagiário Back-end Java (Springboot) na Compass UOL.</li>
-
 _________________________________________________________
 ### Contatos 📱:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-david-317247180)
